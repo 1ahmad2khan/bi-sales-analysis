@@ -24,7 +24,7 @@ stakeholder could act on.
 - Python and Pandas for data cleaning and exploration
 - SQL for querying and aggregating the data
 - Matplotlib and Seaborn for visualisations
-- Power BI for the final dashboard
+- Power BI for the interactive dashboard (see dashboard/sales_dashboard.pbix)
 
  Folder structure
 
