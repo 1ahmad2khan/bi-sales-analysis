@@ -43,3 +43,7 @@ stakeholder could act on.
 - The Canon imageCLASS 2200 Copier is the standout product at ~$61,000
 
 Full findings and recommendations are in the [business report](docs/business_report.md)
+
+An interactive Power BI dashboard is available in the dashboard folder, 
+covering revenue KPIs, category performance, regional breakdown and top 
+products.
